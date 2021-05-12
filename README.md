@@ -1,5 +1,5 @@
 # tmi.js
-
+In this fork was added method "reply" ("client.reply") that replying to message
 ![Test Workflow Status](https://github.com/tmijs/tmi.js/workflows/Test/badge.svg)
 [![Npm Version](https://img.shields.io/npm/v/tmi.js.svg?style=flat)](https://www.npmjs.org/package/tmi.js)
 [![Downloads](https://img.shields.io/npm/dm/tmi.js.svg?style=flat)](https://www.npmjs.org/package/tmi.js)
@@ -17,7 +17,7 @@
 ### Node
 
 ```bash
-$ npm i tmi.js
+$ npm i tmi.js-thearturca-fork
 ```
 
 ```js

@@ -1,5 +1,5 @@
 # tmi.js
-## In this fork was added method "reply" ("client.reply") that replying to message
+## added method "reply" ("client.reply")
 ![Test Workflow Status](https://github.com/tmijs/tmi.js/workflows/Test/badge.svg)
 [![Npm Version](https://img.shields.io/npm/v/tmi.js.svg?style=flat)](https://www.npmjs.org/package/tmi.js)
 [![Downloads](https://img.shields.io/npm/dm/tmi.js.svg?style=flat)](https://www.npmjs.org/package/tmi.js)

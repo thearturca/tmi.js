@@ -17,7 +17,7 @@
 ### Node
 
 ```bash
-$ npm i tmi.js-thearturca-fork
+$ npm i tmi.js-reply-fork
 ```
 
 ```js

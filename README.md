@@ -1,5 +1,5 @@
 # tmi.js
-## added method "reply" ("client.reply")
+## added method "reply" ("client.reply(channel, message, user)")
 ![Test Workflow Status](https://github.com/tmijs/tmi.js/workflows/Test/badge.svg)
 [![Npm Version](https://img.shields.io/npm/v/tmi.js.svg?style=flat)](https://www.npmjs.org/package/tmi.js)
 [![Downloads](https://img.shields.io/npm/dm/tmi.js.svg?style=flat)](https://www.npmjs.org/package/tmi.js)
